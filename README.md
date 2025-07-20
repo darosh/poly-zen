@@ -1,4 +1,4 @@
-# Poly Zen
+# Poly Zen [WIP]
 
 > MPE voice filter for dozens of voices, a [Max for Live](https://www.ableton.com/en/live/max-for-live/) device for isolating individual voices from polyphony
 
